@@ -14,7 +14,7 @@ jobs:
         run: cp .env.example .env
       - name: Validasi file compose
         run: docker compose config -q
-      - name: Uji jalankan dan matikan container (Bonus)
+      - name: Uji jalankan dan hentikan container
         run: |
           docker compose up -d
           docker compose ps
