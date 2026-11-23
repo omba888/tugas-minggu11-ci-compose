@@ -1,6 +1,6 @@
 # Tugas Minggu 11: CI untuk Repo Compose
 
-![CI][![Compose Check](https://github.com/omba888/tugas-minggu11-ci-compose/actions/workflows/compose-check.yml/badge.svg)](https://github.com/omba888/tugas-minggu11-ci-compose/actions/workflows/compose-check.yml)
+[![Compose Check](https://github.com/omba888/tugas-minggu11-ci-compose/actions/workflows/compose-check.yml/badge.svg)](https://github.com/omba888/tugas-minggu11-ci-compose/actions/workflows/compose-check.yml)
 
 **Nama:** Martinus Maun Omba  
 **NIM:** 202557201019  
