@@ -26,7 +26,7 @@ Workflow dipicu oleh event `push` ke `main` dan `pull_request`. Di dalamnya terd
 3. Badge status di README  
    ![Badge](bukti/3-badge.png)
 
-Tautan Pull Request (sudah hijau dan di-merge): (https://github.com/omba888/tugas-minggu11-ci-compose/pull/1)
+Tautan Pull Request (sudah hijau dan di-merge): Tautan Pull Request (sudah hijau dan di-merge): <a href="https://github.com">https://&#8203;://github.com</a>
 
 ## Kendala dan cara mengatasinya
 Saat melakukan uji gagal pada Pull Request, muncul error `yaml: line 17: did not find expected key` pada log step validasi karena indentasi baris `image:` dikurangi satu spasi. Masalah diatasi dengan mengembalikan spasi indentasi sesuai standar YAML (2 spasi) lalu melakukan commit dan push ulang.
